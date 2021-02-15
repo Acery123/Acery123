@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Acery or GG101xAcery
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning: Nothing ATM!
+- 📫 How to reach me by adding me on discord Discord Tag: Acery#1938
