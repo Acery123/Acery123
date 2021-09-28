@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Acery or GG101xAcery or Ace
-- 👀 I’m interested in Typescript
-- 🌱 I’m currently learning: Nothing
+- 👀 I’m interested in Javascript & Typescript
+- 🌱 I’m currently learning: JS & TS
 - 📫 How to reach me by adding me on discord Discord Tag: Acery#1938
