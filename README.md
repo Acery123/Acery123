@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Acery or Acery123 or Ace
-- 👀 I’m interested in Javascript & Typescript
-- 🌱 I’m currently learning: JS & TS
-- 📫 How to reach me by adding me on discord Discord Tag: Acery#1938
+👋 Hi there, I'm Acery - also known as Acery123 or Ace.
+
+👀 I'm a passionate developer who loves working with Javascript and Typescript. I enjoy building responsive and dynamic web applications, and exploring new technologies to enhance my skills.
+
+🌱 Currently, I'm focused on learning and mastering JS and TS to build better and efficient applications.
+
+💬 If you have any questions, or just want to say hi, you can reach me on Discord at Acery#1938. I'm always eager to connect and collaborate with like-minded individuals.
