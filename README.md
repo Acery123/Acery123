@@ -1,4 +1,4 @@
-👋 Hi there, I'm Acery - also known as Acery123 or Ace.
+👋 Hi there, I'm Minhaj - also known as Acery123 or Ace.
 
 👀 I'm a passionate developer who loves working with Javascript and Typescript. I enjoy building responsive and dynamic web applications, and exploring new technologies to enhance my skills.
 
